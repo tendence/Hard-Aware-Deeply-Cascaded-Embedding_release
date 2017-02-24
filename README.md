@@ -1,5 +1,11 @@
 # Hard-Aware-Deeply-Cascaded-Embedding
 
+This project is forked from[HDC](https://github.com/PkuRainBow/Hard-Aware-Deeply-Cascaded-Embedding_release)
+
+I'm tring to change it to work in Ubuntu with Gtx1080
+
+Pray for me.
+
 **Information** :  **The weight_decay for CARS196 should be 0.0002, the original version is typed to be 0.0005 !**
 
 This repository has the source code for the paper "Hard-Aware-Deeply-Cascaded-Embedding_release"(submit to CVPR-2017). This paper is available
